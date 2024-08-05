@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**mharoon2595/mharoon2595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Mohammed Haroon, a frontend/full stack web developer specializing in the MERN stack. I love crafting responsive and dynamic web applications with a focus on user experience and pleasing visuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack:**
+- **Frontend:** React, Tailwind CSS, Framer Motion, Next.js, TypeScript
+- **Backend:** Node.js/Express
+- **Database:** PostgreSQL, MongoDB, Prisma
+
+📚 **Currently Working On:**
+- Building a website with Next.js and TypeScript to reinforce my knowledge.
+
+
+📫 **Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/mharoon2595/)
+- [Personal Portfolio](https://harooncodes.vercel.app/)
+
+Let's collaborate and make something great!
+Onwards and upwards.🚀
