@@ -16,5 +16,7 @@ I'm Mohammed Haroon, a frontend/full stack web developer specializing in the MER
 - [LinkedIn](https://www.linkedin.com/in/mharoon2595/)
 - [Personal Portfolio](https://harooncodes.vercel.app/)
 
+[![An image of @mharoon2595's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mharoon2595)](https://holopin.io/@mharoon2595)
+
 Let's collaborate and make something great!
 Onwards and upwards.🚀
