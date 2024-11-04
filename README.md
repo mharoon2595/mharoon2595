@@ -4,9 +4,9 @@
 I'm Mohammed Haroon, a frontend/full stack web developer specializing in the MERN stack. I love crafting responsive and dynamic web applications with a focus on user experience and pleasing visuals.
 
 🔧 **Tech Stack:**
-- **Frontend:** React, Tailwind CSS, Framer Motion, Next.js, TypeScript
+- **Frontend:** React, Tailwind CSS, Next.js, TypeScript
 - **Backend:** Node.js/Express
-- **Database:** PostgreSQL, MongoDB, Prisma
+- **Database:** SQL, MongoDB
 
 📚 **Currently Working On:**
 - Building a website with Next.js and TypeScript to reinforce my knowledge.
